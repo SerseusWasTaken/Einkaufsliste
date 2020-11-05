@@ -11,3 +11,6 @@ Mit 2 Jahren hab ich mein erstes Programm 'Hello World' welches Weltweit berühm
 * Erfolgreicher Abiturient
 * Heute morgen aufgestanden
     * Täglicher Erfolg
+
+## Ein Bild von mir:
+![Cooler Typ](https://i.redd.it/o3zr5zq0w9k11.jpg "Ich auf meinem Fahrrad")
